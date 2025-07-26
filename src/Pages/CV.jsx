@@ -19,14 +19,14 @@ const CV = () => {
         </h1>
         <div className="bg-white p-4 sm:p-6 rounded-lg shadow-xl max-w-4xl w-full">
           <img
-            src="/CV.jpg"
+            src="/CVku.png"
             alt="CV Ahsanul Amal Fillah"
             className="w-full h-auto rounded-lg border border-gray-300"
           />
         </div>
         <div className="mt-6 flex flex-col sm:flex-row gap-4">
           <a
-            href="/CV.jpg"
+            href="/CVku.png"
             download
             className="w-full sm:w-auto px-6 py-3 bg-gradient-to-r from-purple-500 to-indigo-500 text-white rounded-lg shadow-md hover:scale-105 transition-transform flex items-center justify-center gap-2"
           >
